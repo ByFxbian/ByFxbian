@@ -1,3 +1,7 @@
+# Yo, I am ByFxbian aka Fabian
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF788&width=435&lines=Austrian+Developer+-+Fabian+S.;Templates;Scripts;Bots;And+many+more+different+projects;Github%3A+ByFxbian;Twitter%3A+%40byfxbian;Discord%3A+CuzImFabian06%232702;I+love+you+all+%F0%9F%92%9A)](https://git.io/typing-svg)
+
 <details>
   
   <summary> 📱 Social Accounts </summary>
